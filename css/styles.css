@@ -1,0 +1,25 @@
+/* * {
+    margin: 0;
+    pad: 0;
+} */
+header {
+    color: white;
+}
+.header-1 {
+    background-color: #222222;
+}
+.header-2 {
+    background-color: #F0A83E;
+}
+.banner {
+    background-image: url(../img/bowl.png);
+    background-size: cover;
+    height:400px   ;
+}
+.productos {
+    background-color: #F9F9F4;
+}
+footer {
+    color: white;
+    background-color: #3C2313;
+}
